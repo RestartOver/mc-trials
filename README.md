@@ -21,3 +21,8 @@ Fun stuff.
 
 ## Getting Started
 Download any case file, unzip it, and well open START_HERE.html to start playing.
+
+## Suggestions
+After reading the case details in START_HERE.html, hypothesize the possible situation that is causing the error.
+
+Put it into words and then see if you're right after solving it!
