@@ -15,6 +15,9 @@ These are ideally designed to be solved without using AI help. They are for **fu
 
 Also since they are written by AI, fairly certain AI can solve these in less than 20 seconds as well. So ask any AI for answer key lol.
 
-Code quality, readability, documentations are sometimes designed to be as confusing as possible.
+Expect AI level code, documentation and whatever problems that comes along with this combination.
 
 Fun stuff.
+
+## Getting Started
+Download any case file, unzip it, and well open START_HERE.html to start playing.
